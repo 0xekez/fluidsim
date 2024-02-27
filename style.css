@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: rgb(237, 142, 145);
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
